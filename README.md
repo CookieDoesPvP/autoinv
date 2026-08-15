@@ -2,7 +2,7 @@
 
 AtticaAutoInv is a legacy Minecraft Bukkit plugin that automatically places mined block drops directly into a player's inventory.
 
-This project was originally developed by myself in 2011 as a commissioned project.
+This project was originally developed by myself in 2015 as a commissioned project.
 
 ## Features
 
@@ -38,4 +38,4 @@ This project was originally developed by myself in 2011 as a commissioned projec
 
 ## Compatibility
 
-> **Note:** This project was developed against Minecraft/Bukkit APIs from 2011. It is retained as a historical project and is unlikely to work with modern Minecraft server versions without significant modification.
+> **Note:** This project was developed against Minecraft/Bukkit APIs from 2015. It is retained as a historical project and is unlikely to work with modern Minecraft server versions without significant modification.
